@@ -2,8 +2,8 @@ package cerveceria;
 
 public class BeerProducter extends BeerHouse{
 
-	public BeerProducter(boolean consumidor) {
-		super(consumidor);
+	public BeerProducter() {
+		super(false);
 		// TODO Auto-generated constructor stub
 	}
 
